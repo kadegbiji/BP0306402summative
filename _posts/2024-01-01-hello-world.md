@@ -1,1 +1,7 @@
-<img width="4032" height="760" alt="image" src="https://github.com/user-attachments/assets/b8874d24-515d-46d1-9b6c-3df3c6200cd5" />
+---
+layout: post
+title: "Hello World"
+date: 2024-01-01
+---
+
+This is my first DevOps blog post.
